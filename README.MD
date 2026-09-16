@@ -20,3 +20,4 @@ You can install all required dependencies at once using pip. Open your terminal 
 
 ```bash
 pip install notebook opencv-python numpy matplotlib ipywidgets
+```
